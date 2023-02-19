@@ -1,6 +1,6 @@
 # Sampling_Assignment
 
-Here We are applying 5 different Sampling techniques on 5 diffreentML models on CreditCard.csv file to predict whether the class is 0(i.e "legal") or 1(i.i. "fraud")
+Here We are applying 5 different Sampling techniques on 5 diffreentML models on CreditCard.csv file to predict whether the class is 0 (i.e "legal") or 1 (i.i. "fraud")
 
 # Step 1: Load the dataset 
 
